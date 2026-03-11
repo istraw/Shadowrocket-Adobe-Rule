@@ -1,4 +1,4 @@
-# Shadowrocket屏蔽adobe的网络验证
+# Shadowrocket屏蔽Adobe的网络验证
 最后更新时间：2026-03-11
 
 个人使用，遇到屏蔽失效时会更新
