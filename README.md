@@ -6,5 +6,9 @@
 1. 复制以下规则链接，在 小火箭 -> 配置 -> 远程文件 中添加
 2. 小火箭 -> 配置 -> 模块，右上角，添加规则（模块化规则链接）
 3. 完成
-# 规则下载：
+## 规则下载：
 https://raw.githubusercontent.com/istraw/Shadowrocket_Adobe_Rule/refs/heads/main/Adobe_Rule.module
+
+# 非小火箭用户可以通过hosts屏蔽
+## hosts规则：
+https://raw.githubusercontent.com/istraw/Shadowrocket-Adobe-Rule/refs/heads/main/hosts
