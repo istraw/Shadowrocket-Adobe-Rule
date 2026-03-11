@@ -1,4 +1,5 @@
 # Shadowrocket屏蔽Adobe的网络验证
+### 开启VPN会接管所有流量，所以防火墙和系统hosts均会不起效果，此时需要在VPN中对Adobe中对联网做屏蔽
 最后更新时间：2026-03-11
 
 个人使用，遇到屏蔽失效时会更新
@@ -9,6 +10,6 @@
 ## 规则下载：
 https://raw.githubusercontent.com/istraw/Shadowrocket_Adobe_Rule/refs/heads/main/Adobe_Rule.module
 
-## 非小火箭用户可以通过hosts屏蔽
-## hosts规则：
+## 非VPN用户可以通过hosts屏蔽
+### hosts规则：
 https://raw.githubusercontent.com/istraw/Shadowrocket-Adobe-Rule/refs/heads/main/hosts
