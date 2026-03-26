@@ -2,5 +2,6 @@
 #!desc=屏蔽Adobe正版验证
 [Rule]
 DOMAIN-SUFFIX,adobestats.io,REJECT
+DOMAIN-SUFFIX,adobe.io,REJECT
 DOMAIN-SUFFIX,adobe-stats.com,REJECT
 DOMAIN-SUFFIX,sc.omtrdc.net,REJECT
