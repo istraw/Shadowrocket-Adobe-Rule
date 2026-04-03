@@ -15,6 +15,6 @@
 https://raw.githubusercontent.com/istraw/Shadowrocket_Adobe_Rule/refs/heads/main/Adobe_Rule.module
 
 
-## 非VPN用户可以通过hosts屏蔽
-#### hosts规则：
-https://raw.githubusercontent.com/istraw/Shadowrocket-Adobe-Rule/refs/heads/main/hosts
+## 非VPN用户可以通过hosts等方式屏蔽
+#### ignaciocastro的项目：
+[a-dove-is-dumb](https://github.com/ignaciocastro/a-dove-is-dumb)
